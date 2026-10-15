@@ -11,19 +11,15 @@ R. R. Siam, S. I. Mugdha, M. K. Kamrul, A. S. Azad, and S. S. Chowdhury, “Incl
 
 ## Repository contents
 
-- `src/` — API and research code
+- `src/` — research code
 - `notebooks/` — evaluation notebook
-- `data/` — permitted dataset files or dataset documentation
-- `results/` — evaluation results and figures
-- `paper/` — paper PDF, if redistribution is permitted
+- `data/` — main dataset file
+- `results/` — evaluation results
+- `paper/` — paper PDF
 
 ## Data and source materials
 
 The dataset was derived from Bangla textbooks. Source books and any data that cannot be redistributed are not included. See `data/README.md` for dataset details and access information.
-
-## Setup
-
-Add the required environment and execution instructions here.
 
 ## Citation
 
