@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the published paper listed as the preferred citation."
+title: "Inclusiveness Detection in Bangla Textbooks: Exploring LLMs and Advanced Prompting Techniques"
+authors:
+  - family-names: Siam
+    given-names: Ridwanur Rashid
+  - family-names: Mugdha
+    given-names: Samiul Islam
+  - family-names: Kamrul
+    given-names: Md Kamruzzaman
+  - family-names: Azad
+    given-names: Abdus Salam
+  - family-names: Chowdhury
+    given-names: Sayma Sultana
+type: software
+repository-code: "https://github.com/mugdha-samiul/Inclusiveness_Detection_in_Bangla_Textbooks__Exploring_LLMs_and_Advanced_Prompting_Techniques"
+preferred-citation:
+  type: conference-paper
+  title: "Inclusiveness Detection in Bangla Textbooks: Exploring LLMs and Advanced Prompting Techniques"
+  authors:
+    - family-names: Siam
+      given-names: Ridwanur Rashid
+    - family-names: Mugdha
+      given-names: Samiul Islam
+    - family-names: Kamrul
+      given-names: Md Kamruzzaman
+    - family-names: Azad
+      given-names: Abdus Salam
+    - family-names: Chowdhury
+      given-names: Sayma Sultana
+  conference:
+    name: "2026 International Conference on Revolutionary Artificial Intelligence and Future Applications (Rev-AI)"
+    location: "Varna, Bulgaria"
+    date-start: 2026-06-03
+    date-end: 2026-06-05
+  publisher:
+    name: IEEE
+  year: 2026
+  start: 1
+  end: 6
+  doi: "10.1109/Rev-AI70456.2026.11622053"
+  url: "https://ieeexplore.ieee.org/document/11622053/"
